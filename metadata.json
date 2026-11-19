@@ -1,0 +1,10 @@
+{
+  "name": "MorzeKripto",
+  "description": "AI aplikacija za Morzeovu azbuku, kriptografske šifre i taktičku multiplayer 3D laser tag arenu.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
